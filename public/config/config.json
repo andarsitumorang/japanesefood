@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xB3e29C534ac0903c817571A3382399cE6F7Af5c4",
+  "SCAN_LINK": "https://polygonscan.com/token/0xB3e29C534ac0903c817571A3382399cE6F7Af5c4",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "JAPANASE FOOD",
+  "SYMBOL": "JF",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 10000000000000000000,
+  "DISPLAY_COST": 10,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/japanase-food",
+  "SHOW_BACKGROUND": true
+}
